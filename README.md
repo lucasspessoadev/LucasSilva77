@@ -6,6 +6,8 @@
 - 📚 Atualmente estou estudando HTML, CSS, ReactJS, Banco de Dados, JAVA E Javascript. 
 - 🔀pronomes ele/dele. 
 -
+### Hello, I'm Lucas Silva
+
 - 🔭I am currently studying at Proa institute.
 - 🎯I'm looking to work in the technology field.
 - 📚I'm currently studying HTML, CSS, ReactJS, Database, JAVA AND Javascript.
