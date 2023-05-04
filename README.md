@@ -5,7 +5,7 @@
 - 🎯Procuro trabalhar na área de tecnologia.
 - 📚 Atualmente estou estudando HTML, CSS, ReactJS, Banco de Dados, JAVA E Javascript. 
 - 🔀pronomes ele/dele. 
--
+
 ### Hello, I'm Lucas Silva
 
 - 🔭I am currently studying at Proa institute.
