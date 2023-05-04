@@ -1,16 +1,16 @@
-### Hi there 👋
+### Olá, Eu sou o Lucas Silva
 
-<!--
-**LucasSilva77/LucasSilva77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 Atualmente estou estudando no instituto Proa.
+- 🎯Procuro trabalhar na área de tecnologia.
+- 📚 Atualmente estou estudando HTML, CSS, ReactJS, Banco de Dados, JAVA E Javascript. 
+- 🔀pronomes ele/dele. 
+-
+- 🔭I am currently studying at Proa institute.
+- 🎯I'm looking to work in the technology field.
+- 📚I'm currently studying HTML, CSS, ReactJS, Database, JAVA AND Javascript.
+- 🔀pronouns him/his.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+ 
