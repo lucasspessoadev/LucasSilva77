@@ -21,4 +21,3 @@
 ![blog](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 
- ![Snake animation](https://github.com/LucasSilva77/LucasSilva77/blob/output/github-contribution-grid-snake.svg)
