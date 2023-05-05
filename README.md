@@ -1,8 +1,7 @@
 ### Olá, Eu sou o Lucas Silva 🖐
 
-- 📚 Atualmente estou estudando Front-end e Back-end.
-- 🎯 Procuro trabalhar na área de tecnologia.
-- 🌱 Atualmente estou estudando HTML, CSS, ReactJS, Banco de Dados, JAVA E Javascript. 
+- 📚 Me especializando em desenvolvimento web full stack
+- 🎯 Em busca de por em pratica todos os meus conhecimentos 
 - 🎧 Adoro fazer desenvolvimentos WEB enquanto escuto uma boa musica.
 
 ![LucasSilva77 GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasSilva77&show_icons=true&theme=radical)
