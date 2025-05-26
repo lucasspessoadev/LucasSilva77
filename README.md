@@ -5,8 +5,8 @@
 - 🎯 Em busca de por em pratica todos os meus conhecimentos 
 - 🎧 Adoro fazer desenvolvimentos WEB enquanto escuto uma boa musica.
 
-![LucasSilva77 GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasSilva77&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSilva77&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![LucasSilva77 GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasspessoadev&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasspessoadev&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tecnologias que eu estou me desenvolvendo:
 
